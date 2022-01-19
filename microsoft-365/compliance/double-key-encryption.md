@@ -583,5 +583,7 @@ We have partnered with various third-party hardware security module (HSM) vendor
 
 - [Thales](https://cpl.thalesgroup.com/cloud-security/encryption/double-key-encryption) 
 
+- [DuoKey](https://duokey.ch/products/duokey-for-office365/)
+
 Reach out directly to these vendors for more information and guidance on their in-market DKE HSM solutions. 
 
